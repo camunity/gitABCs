@@ -11,4 +11,4 @@ git clone https://github.com/kevina101/gitABCs.git
 * **D** for Darnell 
 
 
-* **K** for Kevin
+* **K** for [Kevin] (https://github.com/kevina101)
