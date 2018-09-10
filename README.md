@@ -6,3 +6,9 @@ A step by step series of examples that tell you how to get a development env run
 
 git clone https://github.com/kevina101/gitABCs.git
 * **A** for Alejandro
+
+
+* **D** for Darnell 
+
+
+* **K** for Kevin
