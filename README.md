@@ -5,7 +5,7 @@ A simple project to walk through the git commit flow with student-learners!
 Let's learn our Git/Github ABC's by adding ourselves to this awesome list in alphabetical order by making pull requests!
 
 ## Participation Steps: 
-Fork my project `git clone https://github.com/camunity/gitABCs.git` and submit a PR with your name and a link to your Github! 
+Fork this project and submit a PR with your commits to the README including your name and a link to your Github! 
 
 If you want to keep track of updates follow these steps:
 Add a reference to our main branch: `git remote add upstream https://github.com/camunity/gitABCs.git`
