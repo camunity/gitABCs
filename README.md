@@ -2,7 +2,7 @@
 A simple project to walk through the git commit flow with student-learners!
 
 ## Description
-Let's add all the people we know as a list in alphabetical order by making pull requests!
+Let's learn our Git/Github ABC's by adding ourselves to this awesome list in alphabetical order by making pull requests!
 
 ## Participation Steps: 
 Fork my project `git clone https://github.com/camunity/gitABCs.git` and submit a PR with your name and a link to your Github! 
