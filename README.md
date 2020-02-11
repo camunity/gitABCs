@@ -14,6 +14,7 @@ Make sure you're on origin/master for your branch: `git checkout master`
 Add changes: `git merge upstream master` 
 
 ## DEVELOPERS THAT KNOW THEIR ABCs
+* **A** is for [Artjola] (https://github.com/artjolameli)
 * **A** is for [Alejandro](https://github.com/alejo4373)
 * **C** is for [Carolina](https://github.com/crestrepo12), [Cam](https://github.com/camunity)
 * **D** is for [Darnell](https://github.com/Darnell10) 
