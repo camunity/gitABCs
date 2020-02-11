@@ -21,7 +21,7 @@ Add changes: `git merge upstream master`
 * **G** is for [Geidy](https://github.com/Geidy)
 * **J** is for [Jasmin](https://github.com/jasmincher),[JOOOOOANNNNNE](https://media.giphy.com/media/n9dkax2Z0eCTC/giphy.gif) 
 * **K** is for [Kevin](https://github.com/kevina101), [Kaniz](https://github.com/knzknz)
-* **M** is for [Maggie](https://github.com/margarethchan)
+* **M** is for [Maggie](https://github.com/margarethchan),[Michael](https://github.com/miker179
 
 
 
