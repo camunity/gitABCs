@@ -15,12 +15,12 @@ Add changes: `git merge upstream master`
 
 ## DEVELOPERS THAT KNOW THEIR ABCs
 * **A** is for [Alejandro](https://github.com/alejo4373)
-* **C** is for [Carolina](https://github.com/crestrepo12), [Cam](https://github.com/camunity)
+* **C** is for [Carolina](https://github.com/crestrepo12), [Cam](https://github.com/camunity), [Chris](https://github.com/CodingWithCDJE)
 * **D** is for [Darnell](https://github.com/Darnell10) 
 * **E** is for [Eric](https://github.com/husheric)
 * **G** is for [Geidy](https://github.com/Geidy)
 * **J** is for [Jasmin](https://github.com/jasmincher),[JOOOOOANNNNNE](https://media.giphy.com/media/n9dkax2Z0eCTC/giphy.gif) 
-* **K** is for [Kauser Ahmed](https://github.com/kauserahmed), [Kaniz](https://github.com/knzknz)
+* **K** is for [Kauser Ahmed](https://github.com/kauserahmed), [Kevin](https://github.com/kevina101), [Kaniz](https://github.com/knzknz), [Kaher](https://github.com/Cookeemon)
 * **M** is for [Maggie](https://github.com/margarethchan)
 
 
