@@ -14,14 +14,17 @@ Make sure you're on origin/master for your branch: `git checkout master`
 Add changes: `git merge upstream master` 
 
 ## DEVELOPERS THAT KNOW THEIR ABCs
-* **A** is for [Alejandro](https://github.com/alejo4373)
-* **C** is for [Carolina](https://github.com/crestrepo12), [Cam](https://github.com/camunity)
+* **A** is for [Abraham](https://github.com/AbrahamLara), [Alejandro](https://github.com/alejo4373), [Aboubakari](https://github.com/AboubakariSoumanouP),
+* **C** is for [Carolina](https://github.com/crestrepo12), [Cam](https://github.com/camunity), [Chris](https://github.com/CodingWithCDJE)
 * **D** is for [Darnell](https://github.com/Darnell10) 
 * **E** is for [Eric](https://github.com/husheric)
 * **G** is for [Geidy](https://github.com/Geidy)
-* **J** is for [Jasmin](https://github.com/jasmincher),[JOOOOOANNNNNE](https://media.giphy.com/media/n9dkax2Z0eCTC/giphy.gif) 
-* **K** is for [Kevin](https://github.com/kevina101), [Kaniz](https://github.com/knzknz), [Kristel](https://github.com/kristel-spike)
-* **M** is for [Maggie](https://github.com/margarethchan)
+* **J** is for [Jasmin](https://github.com/jasmincher),[JOOOOOANNNNNE](https://media.giphy.com/media/n9dkax2Z0eCTC/giphy.gif),[JennyChosen](https://github.com/tastystar)
+* **K** is for [Kauser Ahmed](https://github.com/kauserahmed),[Kevin](https://github.com/kevina101), [Kaniz](https://github.com/knzknz), [Kaher](https://github.com/Cookeemon), [Kristel](https://github.com/kristel-spike)
+* **L** is for [Lillian](https://github.com/tygerrtygerr)
+* **M** is for [Maggie](https://github.com/margarethchan),[Michael](https://github.com/miker179)
+* **O** is for [Omar](https://github.com/Omar-Jimenez3)
+* **S** is for [Sharmin](https://github.com/hukushpakush)
 
 
 
