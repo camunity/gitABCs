@@ -29,3 +29,8 @@ Add changes: `git merge upstream master`
 
 
 
+## Resources
+[Setting up Git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
+[Your first time with Git](http://kbroman.org/github_tutorial/pages/first_time.html)
+[Guide to the Git Workflow](https://rogerdudler.github.io/git-guide/)
+
