@@ -15,7 +15,7 @@ Add changes: `git merge upstream master`
 
 ## DEVELOPERS THAT KNOW THEIR ABCs
 * **A** is for [Abraham](https://github.com/AbrahamLara), [Alejandro](https://github.com/alejo4373), [Aboubakari](https://github.com/AboubakariSoumanouP), [Artjola](https://github.com/artjolameli)
-* **C** is for [Carolina](https://github.com/crestrepo12), [Cam](https://github.com/camunity), [Carlos](https://https://github.com/carlosmdiaz), [Chris](https://github.com/CodingWithCDJE)
+* **C** is for [Carolina](https://github.com/crestrepo12), [Prof Cam](https://github.com/camunity), [Carlos](https://https://github.com/carlosmdiaz), [Chris](https://github.com/CodingWithCDJE)
 * **D** is for [Darnell](https://github.com/Darnell10) 
 * **E** is for [Eric](https://github.com/husheric)
 * **G** is for [Geidy](https://github.com/Geidy)
